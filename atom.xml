@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[The Tinkerings of a Geek]]></title>
   <link href="http://medieval1.github.com/atom.xml" rel="self"/>
   <link href="http://medieval1.github.com/"/>
-  <updated>2012-02-11T13:25:59-07:00</updated>
+  <updated>2012-02-11T13:31:12-07:00</updated>
   <id>http://medieval1.github.com/</id>
   <author>
     <name><![CDATA[jim west]]></name>
@@ -14,22 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[My second? post]]></title>
-    <link href="http://medieval1.github.com/blog/2012/02/11/my-second-post/"/>
-    <updated>2012-02-11T13:04:00-07:00</updated>
-    <id>http://medieval1.github.com/blog/2012/02/11/my-second-post</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[My first BLOG entry]]></title>
+    <title type="html"><![CDATA[Initial Post]]></title>
     <link href="http://medieval1.github.com/blog/2012/02/11/my-first-blog-entry/"/>
     <updated>2012-02-11T12:47:00-07:00</updated>
     <id>http://medieval1.github.com/blog/2012/02/11/my-first-blog-entry</id>
-    <content type="html"><![CDATA[<p>This is my first BLOG post. Let&#8217;s see how this works shall we?</p>
+    <content type="html"><![CDATA[<p>I&#8217;ve jumped into the foray of a Github BLOG.</p>
 
-<p>Hmmm&#8230;.</p>
+<p>As I build up my Github presence I will endeavor to keep this BLOG updated.</p>
 ]]></content>
   </entry>
   
