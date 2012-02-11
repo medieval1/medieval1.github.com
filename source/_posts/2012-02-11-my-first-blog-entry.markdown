@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "My first BLOG entry"
+title: "Initial Post"
 date: 2012-02-11 12:47
 comments: true
 categories: 
 ---
-This is my first BLOG post. Let's see how this works shall we?
+I've jumped into the foray of a Github BLOG.
 
-Hmmm....
+As I build up my Github presence I will endeavor to keep this BLOG updated.
+
+
