@@ -4,7 +4,7 @@
   <title><![CDATA[The Tinkerings of a Geek]]></title>
   <link href="http://medieval1.github.com/atom.xml" rel="self"/>
   <link href="http://medieval1.github.com/"/>
-  <updated>2012-02-11T13:35:15-07:00</updated>
+  <updated>2012-02-11T13:38:01-07:00</updated>
   <id>http://medieval1.github.com/</id>
   <author>
     <name><![CDATA[jim west]]></name>
@@ -12,5 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Initial Post]]></title>
+    <link href="http://medieval1.github.com/blog/2012/02/11/initial-post/"/>
+    <updated>2012-02-11T13:36:00-07:00</updated>
+    <id>http://medieval1.github.com/blog/2012/02/11/initial-post</id>
+    <content type="html"><![CDATA[<p>This is my first BLOG posting on my newly create Github Pages.</p>
+
+<p>Using Octopress appears to make things pretty easy. I&#8217;ll stick with this for a while
+to see how things go.</p>
+
+<p>Think I&#8217;ll go muck with the themes too&#8230;</p>
+]]></content>
+  </entry>
   
 </feed>
